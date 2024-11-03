@@ -1,27 +1,24 @@
 ### LITA_Capstone_Project
+
 This is where i documented my first project while learning Data Analysis with the Incubator Hub
 
 
-## Sales Performance Analysis Dashboard
+# Sales Performance Analysis Dashboard
 
 1. Customer Segmentation Analysis Dashboard Insights
 
-##Key Observations:
+ Key Observations:
 
-#Top Customers by Revenue: Each top customer contributes around 3 million in revenue, indicating a high concentration of revenue from a small number of customers.
+ Top Customers by Revenue: Each top customer contributes around 3 million in revenue, indicating a high concentration of revenue from a small number of customers.
+ Churn Rate: The churn rate is 0.45, suggesting that around 45% of customers are not continuing with their subscriptions, which is high and may need improvement.
+ Total Revenue: The total revenue stands at 68 million.
+ Revenue by Region: Revenue is relatively evenly distributed across regions, with each region contributing roughly 25% of the total.
+ Subscription Segmentation by Region: The Basic subscription is the most popular, with nearly double the numbers of Standard and Premium subscriptions. The North and East regions have higher customer counts for Basic subscriptions, while Premium and Standard are less common.
 
-#Churn Rate: The churn rate is 0.45, suggesting that around 45% of customers are not continuing with their subscriptions, which is high and may need improvement.
-
-#Total Revenue: The total revenue stands at 68 million.
-
-#Revenue by Region: Revenue is relatively evenly distributed across regions, with each region contributing roughly 25% of the total.
-
-#Subscription Segmentation by Region: The Basic subscription is the most popular, with nearly double the numbers of Standard and Premium subscriptions. The North and East regions have higher customer counts for Basic subscriptions, while Premium and Standard are less common.
-
-#Customer Cancellation: The data table indicates that there is a mix of cancellations across regions and subscription types, with Basic in the North region showing some cancellations.
+Customer Cancellation: The data table indicates that there is a mix of cancellations across regions and subscription types, with Basic in the North region showing some cancellations.
 
 
-##Actionable Insights and Recommendations:
+## Actionable Insights and Recommendations:
 
 1. Reduce Churn Rate:
 Investigate reasons for the high churn rate (0.45) through customer feedback, surveys, or direct engagement.
@@ -44,7 +41,7 @@ Consider region-specific promotions or incentives to boost customer satisfaction
 
 2. Sales Performance Analysis Dashboard Insights
 
-Key Observations:
+# Key Observations:
 
 Total Quantity Sold and Sales Revenue: 9,921 units sold, with total sales reaching 21 billion, indicating high average revenue per unit.
 
