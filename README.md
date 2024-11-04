@@ -16,30 +16,30 @@
 - Customer Cancellation: The data table indicates that there is a mix of cancellations across regions and subscription types, with Basic in the North region showing some cancellations.
   
 
-### Actionable Insights and Recommendations:
+# Actionable Insights and Recommendations:
 
-#### Reduce Churn Rate:
+## Reduce Churn Rate:
 
 - Investigate reasons for the high churn rate (0.45) through customer feedback, surveys, or direct engagement.
 
 - Consider loyalty programs, discounts, or personalized offers to encourage customer retention, especially targeting regions with higher cancellations.
   
 
-### Upsell Opportunities for Premium Subscriptions:
+## Upsell Opportunities for Premium Subscriptions:
 
 - Since Basic subscriptions dominate, there may be an opportunity to upsell to Standard or Premium.
 
 - Target marketing efforts in the North and East regions to promote the benefits of upgrading to higher subscription tiers.
   
 
-### Customer Retention in the North Region:
+## Customer Retention in the North Region:
 
 Since there are some cancellations in the North, focus on retention strategies, such as personalized engagement, to reduce cancellations.
 
 Conduct surveys or feedback sessions specifically for North customers to understand why cancellations are occurring.
 
 
-### Optimize Regional Marketing Strategies:
+## Optimize Regional Marketing Strategies:
 
 With revenue fairly balanced across regions, tailor regional marketing campaigns to strengthen customer engagement, particularly for high-revenue customers.
 
