@@ -30,6 +30,7 @@ The Sales Performance Analysis Dashboard provides a comprehensive view of the co
 - **Top Products by Revenue**: Hat, Shoes, Jacket
 - **Sales Contribution by Region**: Equal contribution across four regions (East, North, South, West).
 
+
 ### Visuals
 1. **Monthly Sales Trends**: Visualizes monthly sales, highlighting any trends or seasonal fluctuations.
 2. **Top Products by Revenue**: Shows the top 5 revenue-generating products.
